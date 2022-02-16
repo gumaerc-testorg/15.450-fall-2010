@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information related to justification of the principle
   of optimality. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-450-analytics-of-finance-fall-2010/cf1324b59f64e482761348947a1a97da_MIT15_450F10_handout03.pdf
+file: /media/courses/15-450-analytics-of-finance-fall-2010/cf1324b59f64e482761348947a1a97da_MIT15_450F10_handout03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT15_450F10_handout03.pdf
 uid: cf1324b5-9f64-e482-7613-48947a1a97da

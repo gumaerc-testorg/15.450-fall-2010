@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information related to static approach to dynamic
   portfolio choice.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-450-analytics-of-finance-fall-2010/61aa22bf83cfa1059fc8a7546eb4b3d8_MIT15_450F10_handout04.pdf
+file: /media/courses/15-450-analytics-of-finance-fall-2010/61aa22bf83cfa1059fc8a7546eb4b3d8_MIT15_450F10_handout04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT15_450F10_handout04.pdf
 uid: 61aa22bf-83cf-a105-9fc8-a7546eb4b3d8

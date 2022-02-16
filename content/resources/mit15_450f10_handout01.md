@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information related to crossing probabilities
   of the brownian motion. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-450-analytics-of-finance-fall-2010/5f3897c31fcee91702b8aef2d4db2ff4_MIT15_450F10_handout01.pdf
+file: /media/courses/15-450-analytics-of-finance-fall-2010/5f3897c31fcee91702b8aef2d4db2ff4_MIT15_450F10_handout01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT15_450F10_handout01.pdf
 uid: 5f3897c3-1fce-e917-02b8-aef2d4db2ff4
