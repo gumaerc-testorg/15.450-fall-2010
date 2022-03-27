@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 1a65b5ef-69c1-6375-36f6-06e0e9872982
 resourcetype: Document
 title: MIT15_450F10_probs_sol.pdf
 uid: ab692c63-61cd-db9c-5bab-48edd006548f

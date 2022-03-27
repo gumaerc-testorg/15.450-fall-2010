@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b0844717-3fca-1706-a0f8-b2830b3598fa
 resourcetype: Document
 title: MIT15_450F10_handout01.pdf
 uid: 5f3897c3-1fce-e917-02b8-aef2d4db2ff4
