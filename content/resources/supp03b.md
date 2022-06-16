@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 3.
-file: /media/courses/15-450-analytics-of-finance-fall-2010/7397bc60a2504f668eb2e4a47fd391f9_supp03b.m
+file: /courses/15-450-analytics-of-finance-fall-2010/7397bc60a2504f668eb2e4a47fd391f9_supp03b.m
 file_type: text/x-objcsrc
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: supp03b.m
 uid: 7397bc60-a250-4f66-8eb2-e4a47fd391f9
 ---
+This is a supporting file for lecture 3.
+

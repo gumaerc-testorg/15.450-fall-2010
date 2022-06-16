@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains a set of recitation notes for the course. '
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ RECITATION NOTES
 Fundamental theorem of asset pricing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_rec01))
+({{% resource_link 5400591d-3f74-831b-80ab-c10a288282f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Fundamental theorem of asset pricing
 Black-Scholes formula
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_rec02))
+({{% resource_link 1d01e61c-8c6e-2a27-5a1c-8c3c68879db9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ Black-Scholes formula
 Stochastic calculus
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_rec03))
+({{% resource_link 511a3244-6b77-d256-6dae-5d97253e83c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ Stochastic calculus
 Stochastic calculus (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_rec04))
+({{% resource_link 73dd078e-204b-725d-93c6-9b754cac8d31 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Stochastic calculus (cont.)
 Applications of risk-neutral pricing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_rec05))
+({{% resource_link 385af023-f7b5-7fc1-e031-896d93d7a516 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +94,7 @@ Applications of risk-neutral pricing
 Introduction to econometrics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_rec09))
+({{% resource_link d7f48c59-f46e-769a-4371-3beff7aa5799 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ Introduction to econometrics
 Ordinary least squares: Estimation and standard errors
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_rec10))
+({{% resource_link 2710a11d-17ca-e67d-0217-3ffb15859784 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ Ordinary least squares: Estimation and standard errors
 Nonlinear least squares: Applications to MIDAS and probit models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_rec11))
+({{% resource_link c794896c-8caa-c456-22d2-74f47a5e632d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
