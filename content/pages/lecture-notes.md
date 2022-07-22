@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, lecture notes for
+  each session, handouts, and related simulations and models.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: b0844717-3fca-1706-a0f8-b2830b3598fa
 ---
 
-Code for related simulations and models are available with the lecture notes, some of which may be useful on the [Problem Sets]({{< baseurl >}}/pages/assignments).
+Code for related simulations and models are available with the lecture notes, some of which may be useful on the {{% resource_link 2042581f-e609-b631-db37-449d546d0bff "Problem Sets" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -30,7 +35,7 @@ LECTURE NOTES
 Arbitrage-free pricing models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mit15_450f10_lec01))
+({{% resource_link 219406be-97b9-6bc5-40e0-be6aa778c0b7 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,9 +55,9 @@ Code: Quadratic variation simulation
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit15_450f10_lec02))
+({{% resource_link 0d1260b8-91a9-6241-316d-883d4f5bfaec "PDF" %}})
 
-([M]({{< baseurl >}}/resources/supp02))
+({{% resource_link 1cc6f6f3-8bc1-1d99-3b6d-a8d2f4705d53 "M" %}})
 
 
 {{< tdclose >}}
@@ -78,13 +83,13 @@ Code: Monte Carlo with control variates, stochastic volatility model
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit15_450f10_lec03))
+({{% resource_link 4fa03308-2ff5-ee58-722a-67fe81f0dce7 "PDF" %}})
 
-([M]({{< baseurl >}}/resources/supp03a))
+({{% resource_link b9ecd936-a200-3c7b-64cd-216015d53d20 "M" %}})
 
-([M]({{< baseurl >}}/resources/supp03b))
+({{% resource_link 7397bc60-a250-4f66-8eb2-e4a47fd391f9 "M" %}})
 
-([M]({{< baseurl >}}/resources/supp03c))
+({{% resource_link b0d0643e-657f-0db7-fd06-5f6acced66e3 "M" %}})
 
 
 {{< tdclose >}}
@@ -98,7 +103,7 @@ Code: Monte Carlo with control variates, stochastic volatility model
 Dynamic portfolio choice I: Static approach to dynamic portfolio choice
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_lec04))
+({{% resource_link 86eabf3f-a348-43b2-82db-1a0fd07eb827 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +115,7 @@ Dynamic portfolio choice I: Static approach to dynamic portfolio choice
 Dynamic portfolio choice II: Dynamic programming
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_lec05))
+({{% resource_link 434ff3cb-e0f9-7534-16e4-979d9ef1e34a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,9 +135,9 @@ Code: Numerical DP solution
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit15_450f10_lec06))
+({{% resource_link 67e1f5af-60a3-c682-114a-d9edb2b47d08 "PDF" %}})
 
-([M]({{< baseurl >}}/resources/supp06))
+({{% resource_link 75ee484f-5c11-d0d0-f220-4a0f8a64cb8a "M" %}})
 
 
 {{< tdclose >}}
@@ -146,7 +151,7 @@ Code: Numerical DP solution
 Parameter estimation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_lec07))
+({{% resource_link 5f845ab8-8a74-bf3e-f892-37a58e075503 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +163,7 @@ Parameter estimation
 Standard errors and tests
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_lec08))
+({{% resource_link b79caa58-1c25-f2c6-df2a-3c7af099150e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +175,7 @@ Standard errors and tests
 Small-sample inference and bootstrap
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_lec09))
+({{% resource_link 3894e9e7-2ac0-f3d1-c98d-43323a104fec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +187,7 @@ Small-sample inference and bootstrap
 Volatility models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_lec10))
+({{% resource_link dc9b7ce0-d622-0d59-e32b-a4f3eaf690aa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +199,7 @@ Volatility models
 Review: Arbitrage-free pricing and stochastic calculus
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_review01))
+({{% resource_link f62ab115-e23a-eb72-2a6c-d813dea32f46 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +211,7 @@ Review: Arbitrage-free pricing and stochastic calculus
 Review: DP and econometrics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_450f10_review02))
+({{% resource_link b6610f26-2949-5e65-6a3e-6549e3c22940 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,10 +220,10 @@ Review: DP and econometrics
 
 The following handouts and slides were used to supplement lecture materials.
 
-Crossing probabilities of the Brownian motion ([PDF]({{< baseurl >}}/resources/mit15_450f10_handout01))
+Crossing probabilities of the Brownian motion ({{% resource_link 5f3897c3-1fce-e917-02b8-aef2d4db2ff4 "PDF" %}})
 
-Key points: Derivatives and Monte Carlo ([PDF]({{< baseurl >}}/resources/mit15_450f10_handout02))
+Key points: Derivatives and Monte Carlo ({{% resource_link ab2510b0-21be-e94c-3840-57c138c343d4 "PDF" %}})
 
-Dynamic programming: Justification of the principle of optimality ([PDF]({{< baseurl >}}/resources/mit15_450f10_handout03))
+Dynamic programming: Justification of the principle of optimality ({{% resource_link cf1324b5-9f64-e482-7613-48947a1a97da "PDF" %}})
 
-Examples of dynamic programming problems ([PDF]({{< baseurl >}}/resources/mit15_450f10_handout04))
+Examples of dynamic programming problems ({{% resource_link 61aa22bf-83cf-a105-9fc8-a7546eb4b3d8 "PDF" %}})
