@@ -5,6 +5,7 @@ file: /courses/15-450-analytics-of-finance-fall-2010/d78bd3079a320a67177e97c0014
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_450F10_probs.pdf
 uid: d78bd307-9a32-0a67-177e-97c0014a834b
 ---
 This resource contains information related to radon-nikodym derivative.
-

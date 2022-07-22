@@ -6,6 +6,7 @@ file: /courses/15-450-analytics-of-finance-fall-2010/ab2510b021bee94c384057c138c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT15_450F10_handout02.pdf
 uid: ab2510b0-21be-e94c-3840-57c138c343d4
 ---
 This resource contains information related to derivatives and monte carlo. 
-
