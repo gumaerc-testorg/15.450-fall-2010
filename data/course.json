@@ -48,9 +48,10 @@
   },
   "learning_resource_types": [
     "Problem Sets",
-    "Exam Materials",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Exams"
   ],
-  "site_uid": "b1a928fd-02ff-4221-b044-2c847667d705",
+  "site_uid": "5b4e9881-e68f-438f-aaa7-23a6c95424c4",
+  "site_short_id": "15.450-fall-2010",
   "title": "Course Metadata"
 }
