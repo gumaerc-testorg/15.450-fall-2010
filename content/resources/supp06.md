@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for lecture 6.
 file: /courses/15-450-analytics-of-finance-fall-2010/75ee484f5c11d0d0f2204a0f8a64cb8a_supp06.m
+file_size: 3914
 file_type: text/x-objcsrc
 learning_resource_types:
 - Lecture Notes
