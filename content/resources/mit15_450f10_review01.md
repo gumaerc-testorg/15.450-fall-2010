@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to arbitrage-free pricing
   and stochastic calculus.
-file: /courses/15-450-analytics-of-finance-fall-2010/f62ab115e23aeb722a6cd813dea32f46_MIT15_450F10_review01.pdf
+file: /ol-ocw-studio-app/courses/15-450-analytics-of-finance-fall-2010/f62ab115e23aeb722a6cd813dea32f46_MIT15_450F10_review01.pdf
 file_size: 149127
 file_type: application/pdf
 learning_resource_types:
