@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to justification of the principle
   of optimality. '
-file: /ol-ocw-studio-app/courses/15-450-analytics-of-finance-fall-2010/cf1324b59f64e482761348947a1a97da_MIT15_450F10_handout03.pdf
+file: /courses/15-450-analytics-of-finance-fall-2010/cf1324b59f64e482761348947a1a97da_MIT15_450F10_handout03.pdf
 file_size: 172217
 file_type: application/pdf
 learning_resource_types:
