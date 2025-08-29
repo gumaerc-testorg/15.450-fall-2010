@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to risk-neutral probability.
-file: /courses/15-450-analytics-of-finance-fall-2010/ab692c6361cddb9c5bab48edd006548f_MIT15_450F10_probs_sol.pdf
+file: /ol-ocw-studio-app/courses/15-450-analytics-of-finance-fall-2010/ab692c6361cddb9c5bab48edd006548f_MIT15_450F10_probs_sol.pdf
 file_size: 490098
 file_type: application/pdf
 learning_resource_types:
